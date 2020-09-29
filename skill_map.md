@@ -1,5 +1,6 @@
 ## provide service skill
 以核心用户为中心，倾听用户的心声，洞察用户的需求
+要有洞察的倾听用户的反馈，个人要对自己的fake自尊心钝化
 ## conmunication skill
 要能谦卑地听进尖锐的批评，并吸取批评的合理成分，作为实实在在改进工作的养分
 ## software dev skill
