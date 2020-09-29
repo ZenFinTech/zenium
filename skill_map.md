@@ -7,7 +7,7 @@
 ### GIS
 
 ## product management skill
-产品的定义，开发节奏
+产品的定义，版本功能迭代
 ## project management skill
-产品研发项目过程的管理
+产品研发项目过程的管理，MVP产品
 ## financial management skill
