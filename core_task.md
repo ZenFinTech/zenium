@@ -5,4 +5,4 @@
 
 
 ### 2020-09-30
-调用tianditu服务，汉化 （HelloWorld7 OK）
+调用tianditu服务，汉化 （HelloWorld7 OK），但是会在切换3D视图的适合出现bug
