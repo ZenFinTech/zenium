@@ -7,6 +7,9 @@
 ### wexin dev skill
 ### GIS
 
+## software testing framework
+软件自动化测试框架，提升产品的可靠性
+
 ## product management skill
 产品的定义，版本功能迭代
 ## project management skill
